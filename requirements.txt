@@ -1,0 +1,9 @@
+Flask
+mysql-connector-python
+pandas
+numpy
+joblib
+langchain-google-genai
+itsdangerous
+Flask-Mail
+google-cloud
